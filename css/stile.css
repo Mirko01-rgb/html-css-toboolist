@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+ background-color: lightblue;
+}
+
+.background{
+  background-color: white;
+  margin-top: 3px;
+
+}
+
+.logo{
+  vertical-align: middle;
+}
+
+.titolo{
+  font-size: 30px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.riquadro{
+  height: 500px;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+
+
+.quadrato{
+
+  background-color: blue;
+  color: white;
+  border-radius: 9px;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  margin-left: : 100px;
+}
+
+.quadrato1{
+  color: lightgrey;
+  border-radius: 9px;
+  font-size: 30px;
+  padding:10px;
+  text-decoration: none;
+  border: 1px solid lightgrey;
+}
+
+.spazio{
+  padding-left: 100px;
+  padding-top: 30px;
+  display: inline-block;  /* l'ho reso inline-block in modo tale da poterlo muovere dall'alto verso il basso */
+
+}
+
+.sezione1{
+  padding-top: 30px;
+  padding-left: 60px;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.sottosezione1{
+  font-size: 15px;
+  display: inline-block;
+  padding-left: 70px;
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.simbolo{
+  font-size: 20px;
+}
+
+.spunta{
+  border: 1px solid green;
+  border-radius: 100%;
+  padding: 3px;
+  color: green;
+}
+
+.button1{
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+  padding: 0 10px;
+
+}
+
+.button2{
+  background-color: purple;
+  color: white;
+  border-radius: 20px;
+  padding: 0 10px;
+
+}
+
+.button3{
+  background-color: Green;
+  color: white;
+  border-radius: 20px;
+  padding: 0 10px;
+}
+
+.button4{
+  background-color: orange;
+  color: white;
+  border-radius: 20px;
+  padding: 0 10px;
+}
